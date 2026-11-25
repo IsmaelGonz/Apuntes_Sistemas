@@ -525,6 +525,19 @@ Cuando hay una interrupción:
 
 ---
 
+25/11/2026
+**Decibelio**
+compara algo con algo dentro de una misma magnitud
+
+tres memorias dentro del hd44780 
+CGROM
+Formas de las letras, grabadas de fábrica
+
+DDRAM
+El código de salida
+
+---
+
 # Declaración de uso de inteligencia artificial
 
 Se utilizó inteligencia artificial como herramienta de apoyo para organizar, estructurar y dar formato a los apuntes recopilados durante las clases de la asignatura de Sistemas Digitales. Su utilización se limitó a mejorar la presentación de la información mediante encabezados, tablas y organización del contenido, conservando la información original registrada en clase.
